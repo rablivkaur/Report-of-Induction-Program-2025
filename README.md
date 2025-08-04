@@ -8,8 +8,11 @@ Official induction day report submitted by Rabliv Kaur (CSE 2025), summarizing k
 *Registration Number*: 25101905  
 *Mobile Number (WhatsApp)*: 9803870098  
 *Email*: rablivkhurana@gmail.com, rablivkhurana@outlook.com  
-*Photograph*:  
-![My Photograph]<img scr="https://github.com/rablivkaur/Report-of-Induction-Program-2025/raw/main/PHOTO.jpg" alt="Rabliv Kaur" width="200"/>
+*Photograph*:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rablivkaur/Report-of-Induction-Program-2025/main/PHOTO.jpg" alt="Rabliv Kaur" width="200">
+</p>
+
 
 ---
 
