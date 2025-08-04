@@ -1,3 +1,4 @@
+
 # Activity Report of Induction Program 2025
 Official induction day report submitted by Rabliv Kaur (CSE 2025), summarizing key sessions, insights, and experiences from Day 1 at GNDEC, Ludhiana.
 
@@ -8,7 +9,7 @@ Official induction day report submitted by Rabliv Kaur (CSE 2025), summarizing k
 *Mobile Number (WhatsApp)*: 9803870098  
 *Email*: rablivkhurana@gmail.com, rablivkhurana@outlook.com  
 *Photograph*:  
-![My Photograph](your-image-link-here)
+![My Photograph]<img scr="https://github.com/rablivkaur/Report-of-Induction-Program-2025/blob/main/PHOTO.jpg?raw=true" alt="Rabliv Kaur" width="200"/>
 
 ---
 
