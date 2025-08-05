@@ -183,3 +183,18 @@ Three sources of desire were discussed:
 The session ended with a meditation on *natural acceptance* and its *practical application in life*.
 
 We ended the day with a members' session at Causmic Club, and then proceeded with emotional poetry and singing performances by our seniors.
+
+---
+
+##  Day 5 (5 August 2025)
+
+Today, there was no formal induction program. Instead, we attended our regular academic lectures.
+
+- The day began with a **Professional English Communication** lecture by *Prof. Manjot Kaur*. We were introduced to the syllabus and marking scheme, setting a clear roadmap for the subject ahead and then we had a introduction part where everyone introduced themselves on the podium to overcome their stage fear.
+
+- This was followed by a **Mathematics** lecture with *Prof. Rajbir Kaur*, where we had a quick revision session to refresh our foundational concepts.
+
+- Lastly, we had our **Basic Electrical and Electronics Engineering (BEEE)** class. The subject was introduced by the faculty, and we also began taking notes on the initial concepts.
+
+Overall, the day marked a transition from induction to the beginning of our academic journey.
+
