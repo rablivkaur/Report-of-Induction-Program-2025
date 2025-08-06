@@ -198,3 +198,71 @@ Today, there was no formal induction program. Instead, we attended our regular a
 
 Overall, the day marked a transition from induction to the beginning of our academic journey.
 
+---
+
+##  Day 6 (6 August 2025)
+
+### Session by Prof.Jaswant Singh - General Talk and Personality Development
+
+We had a session that was based on *general talk and personality development*.
+The major points from the session were:
+
+- *Talked about Protocols* in college life and in coding language.
+- Address on *building logic* to firm up our problem-solving style.
+- The *full form of ChatGPT* is *Chat Generative Pre-Trained Transformer*.
+
+### Special Guest Session
+
+We were addressed by the *Trustee of the College, **S. Gurcharan Singh Grewal*.
+
+#### ✨ He shared the teachings of Guru Nanak Dev Ji:
+1. *Kirat Karo* (Earn honestly through hard work)  
+2. *Naam Japo* (Chant the name of God)  
+3. *Vand Chhako* (Share with others)
+
+He emphasized:
+> "ਵਿਦਿਆ ਮਨੁੱਖ ਦਾ ਤੀਸਰਾ ਨੇਤਰ ਹੈ।"  
+> (It is written in the Gurubani that 'Education is the third eye of man' and when this eye opens, it raises its voice against every evil, oppression and injustice of the society. This eye inspires everyone to equality, independent thinking and mutual cooperation to create a better society..)
+
+#### Words of Wisdom
+
+He also described the *goodness of GNDEC* and informed that he himself is an erstwhile alumnus of the college.
+He exhorted us to:
+
+- *Always hold respect for your teachers*
+- Be proud and thankful to be a part of *GNDEC*
+- Let *your duty, rules or protocols* shape your character
+
+
+### Address by Dr. Lakhvir Singh Khanna (Incharge - CML)
+
+Dr. Khanna congratulated us for becoming part of GNDEC and discussed the:
+
+#### Centre for Multi-faceted Learning (CML)
+
+- A centre promoting the *overall growth and development of students*
+- Assists in developing:
+  - *Soft Skills*
+  - *Logical, Technical & Personality Development*
+
+#### CML Activities:
+- Programs customized according to students' requirements
+- The facilities for:
+  - Becoming a *creative content developer*
+  - *Designing flyers*
+- *Planning report papers*
+  - *Collecting and learning informative material*
+
+➡ We were *urged to become a part of CML* to maximize our all-around development.
+
+
+#### Learning Platforms and Registrations
+
+We were told that we should utilize *Swayam* to access lectures rather than YouTube.
+We enrolled in a course on *Swayam NPTEL* as well:
+
+#### "Programming with Generative AI"
+
+---
+
+ *Overall*, the day was inspiring and educative. It placed a strong focus on discipline, self-improvement, and availing oneself of the academic experience at GNDEC.
