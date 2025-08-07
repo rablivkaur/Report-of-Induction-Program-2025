@@ -85,8 +85,6 @@ She shared the 6Ps to success:
 - *Persistence*  
 - *Placement*  
 
----
-
 ## ✨ Concluding Remarks
 The initial day was an ideal mixture of *spirituality, inspiration, and motivation*. It was a positive start for the next few days, giving students an overview of college values, academic organization, and the value of self-development. It made everyone feel welcomed, empowered, and thrilled to embark on this new path at GNDEC.
 
@@ -263,8 +261,6 @@ We enrolled in a course on *Swayam NPTEL* as well:
 
 #### "Programming with Generative AI"
 
----
-
  *Overall*, the day was inspiring and educative. It placed a strong focus on discipline, self-improvement, and availing oneself of the academic experience at GNDEC.
 
 ---
@@ -272,7 +268,7 @@ We enrolled in a course on *Swayam NPTEL* as well:
 
 ##  Day 7 (7 August 2025)
 
-## Session by Dr. Parminder Singh (Dean – Student Welfare)
+### Session by Dr. Parminder Singh (Dean – Student Welfare)
 
 Dr. Parminder Singh spoke to the students and advised them on how to make the best of the next four years.
 He told us to:
@@ -290,14 +286,12 @@ He also acquainted us with some helpful facilities and college portals:
 - *academics.gndec.ac.in* → Academic information
 - *mail.gndec.ac.in* → GNDEC Mail
 
-## Scholarships & Introduction Round
+### Scholarships & Introduction Round
 
 - We were also informed about the various *scholarships available* for students.
 - There was an *introduction session* where every student introduced himself.
 
-## Digital Marketing Club (DMC)
-
-### Speaker: *Dr. Amit Khanna*
+### Digital Marketing Club (DMC) - Speaker: *Dr. Amit Khanna*
 
 Dr. Amit Khanna spoke about the *Digital Marketing Club (DMC)*:
 
@@ -314,9 +308,9 @@ Dr. Amit Khanna spoke about the *Digital Marketing Club (DMC)*:
 
 Moreover, students were asked to look into the *Digital Marketing course on NPTEL*.
 
-## Session by Dr. Randhir Singh
+### Session by Dr. Randhir Singh Sir
 
-Dr. Randhir Singh presented a brief session on:
+Dr. Randhir Singh Sir presented a brief session on:
 
 - *Examination Rules*
 - *Academic Rules*
