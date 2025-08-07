@@ -94,7 +94,6 @@ The initial day was an ideal mixture of *spirituality, inspiration, and motivati
 
 ## Day 2 (1 August 2025)
 
-
 The second day of Induction Program at GNDEC was dedicated to the academic readiness assessment of students and enriching them with real-world knowledge to facilitate their all-round development. The day's schedule intertwined academic evaluation, awareness on health and well-being, and technical learning.
 
 The day commenced with two vital tests—*an English Proficiency Test* and a *Mathematics Proficiency Test*. These tests were conducted to test students' existing knowledge of grammar, reading comprehension, vocabulary, logical reasoning, and mathematical ability. These tests formed the benchmark for future guidance and growth and allowed faculty to have an idea about the students' academic level.
@@ -148,19 +147,20 @@ Its beauty and scent will wither away"
 
 ---
 
-## Day 3 (4 August 2025) 
+## Day 4 (4 August 2025) 
 
 The session for the day was led by a warm welcome by the anchor, a senior *Cosmic Club* member.
 
+### Session by Priya Darshani Mam
 The day was the second session taken by *Priya Darshani Ma'am on *Universal Human Values (UHV). The session prompted us to think and look within ourselves and question where we end up spending most of our time—on **right understanding**, **relationships**, and **physical facilities*.
 
-#### Key Takeaways
+### Key Takeaways
 - The distinction between *excitement* and *happiness*.
 - Significance of *shifting from excitement to happiness* through correct understanding.
 - Idea of *self-exploration* as an ongoing process.
 - "Whatever is stated is a proposal"—we "must check it through our *natural acceptance* and *experimental validation*.
 
-#### Understanding Desire:
+### Understanding Desire:
 Three sources of desire were discussed:
 1. *Preconditioning*
 2. *Sensation*
@@ -168,11 +168,11 @@ Three sources of desire were discussed:
 
 > Do not consider any proposal as true or false. Instead, explore and confirm.
 
-#### Happiness vs. Unhappiness:
+### Happiness vs. Unhappiness:
 - *Happiness*: Synergy, harmony, and living in understanding.
 - *Unhappiness*: Disharmony, contradiction, and indulgence in unhealthy habits (e.g., binge-watching, addictions).
 
-#### Life Lessons:
+### Life Lessons:
 - Know the self before acting.
 - Train imagination before action.
 - Remember that:
@@ -266,3 +266,63 @@ We enrolled in a course on *Swayam NPTEL* as well:
 ---
 
  *Overall*, the day was inspiring and educative. It placed a strong focus on discipline, self-improvement, and availing oneself of the academic experience at GNDEC.
+
+---
+
+
+##  Day 7 (7 August 2025)
+
+## Session by Dr. Parminder Singh (Dean – Student Welfare)
+
+Dr. Parminder Singh spoke to the students and advised them on how to make the best of the next four years.
+He told us to:
+
+- ✅ *Enjoy our life* as well as work on our *purpose for coming to college*
+- Practice *time management*
+- *Identify your limitations and weaknesses*
+- Work on *overcoming your weaknesses*
+
+He also acquainted us with some helpful facilities and college portals:
+
+### Major GNDEC Portals:
+- *exam.gndec.ac.in* → Exam-related information
+- *guru.gndec.ac.in* → Attendance-related information
+- *academics.gndec.ac.in* → Academic information
+- *mail.gndec.ac.in* → GNDEC Mail
+
+## Scholarships & Introduction Round
+
+- We were also informed about the various *scholarships available* for students.
+- There was an *introduction session* where every student introduced himself.
+
+## Digital Marketing Club (DMC)
+
+### Speaker: *Dr. Amit Khanna*
+
+Dr. Amit Khanna spoke about the *Digital Marketing Club (DMC)*:
+
+- The DMC handles all GNDEC social media content.
+- Students were urged to *attend workshops* to enhance and *develop their skills*.
+
+### DMC Provides Training In:
+- SEO (Search Engine Optimization)
+- Social Media Marketing
+- Content Marketing
+- Email Marketing
+
+➡ These courses assist students in specializing in their *areas of interest*.
+
+Moreover, students were asked to look into the *Digital Marketing course on NPTEL*.
+
+## Session by Dr. Randhir Singh
+
+Dr. Randhir Singh presented a brief session on:
+
+- *Examination Rules*
+- *Academic Rules*
+
+✅ *Conclusion*:
+The day was filled with valuable information regarding making the most out of college years, accessing online portals, activities of clubs, and policies in the institution.
+
+---
+ 
